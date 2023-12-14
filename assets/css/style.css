@@ -156,6 +156,37 @@ h1 {
     padding-left: 10px;
 }
 
+/*Join Us Section*/
+#joinus {
+    height: 600px;
+    width: 100%;
+    background: url("../images/joinus.jpg");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+#joinus-form {
+    background-color: rgba(95, 85, 12, 0.658);
+    font: 130%;
+    position: relative;
+    bottom: 30px;
+    margin-top: 10px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+}
+#join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #d9eb61;
+    color: #432f2f;
+}
+
 /*Footer*/
 
 #networking {
