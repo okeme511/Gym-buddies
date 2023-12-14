@@ -86,11 +86,15 @@ header a {
 
 /*Main*/
 main {
-    background-color: blue;
-    /*make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 47%;
+}
 
+#bulk {
+    height: 600px;
+    width: 100%;
+    background: url("../images/bulk.webp") no-repeat center center/cover;
+    
 }
 
 /*Footer*/
@@ -102,12 +106,14 @@ main {
     justify-content: space-evenly;
     list-style-type: none;
 }
+
 #networking i {
     font-size: 160%;
     padding: 5%;
     padding-right: 1rem;
     color: gold;
 }
+
 @media screen and (min-width: 768px) {
 
     main {
@@ -149,7 +155,7 @@ main {
         margin-top: 12%;
     }
 
-    .nav-menu a:hover{
+    .nav-menu a:hover {
         border-bottom: 1px solid gold;
     }
 }
