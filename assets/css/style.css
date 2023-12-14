@@ -27,6 +27,9 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 header a {
     text-decoration: none;
@@ -39,7 +42,39 @@ header a {
     float: none;
     margin: 0 auto;
 }
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+#menu > li {
+    margin-bottom: 1em;
 
+}
+.active {
+    border-bottom: 1px solid gold;
+}
+.nav-menu {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0%;
+    padding: 0 1rem;
+    display: none;
+    top: 100%;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+#nav-toggle {
+    display: none;
+}
+.nav-toggle-label {
+    font-size: 2rem;
+    
+}
 /*Main*/
 main {
     background-color: blue;
