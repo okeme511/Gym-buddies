@@ -26,7 +26,6 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -94,7 +93,28 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/bulk.webp") no-repeat center center/cover;
-    
+
+}
+
+h1 {
+    font-family: 'roboto';
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: gold;
+    position: relative;
+}
+
+
+#intro-text {
+    background-color: rgba(95, 85, 12, 0.658);
+    font: 130%;
+    position: absolute;
+    bottom: 30px;
+    width: 80%;
+    min-height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+
 }
 
 /*Footer*/
@@ -145,6 +165,11 @@ main {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+
+    #intro-text {
+        width: 300px;
+        right: 50px;
     }
 
 }
