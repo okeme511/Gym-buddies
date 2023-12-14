@@ -87,3 +87,24 @@ main {
 footer {
     background-color: darkgray;
 }
+
+@media screen and (min-width: 768px) {
+    
+    .nav-menu {
+        display: block;
+        position: relative;
+        width: fit-content;
+        padding-right: 1rem;
+
+    }
+    #menu {
+        display: flex;
+    }
+    #menu > li {
+        padding-left: 1rem;
+    }
+    .nav-toggle-label {
+        display: none;
+    }
+    
+}
