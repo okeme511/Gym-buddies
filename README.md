@@ -32,3 +32,10 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <img src="/assets/images/22 About screenshot.png" alt="inside about">
 <img src="/assets/images/222 Gym activities screenshot.jpg" alt="inside activities">
 <img src="/assets/images/222 join screenshot.jpg" alt="inside join">
+
+<h4>Testing</h4>
+<li>I tested that this page works in different browsers, chrom, firefox and microsoft edge</li>
+<li>I confirm that this website is responsive, functions on all standard screen size using devtools toolbar</li>
+<li>I confirm that the navigation in header are readable and easy to understand</li>
+<li>I confirm that the form works and requires field input if submited blank</li>
+
