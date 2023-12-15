@@ -42,3 +42,8 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <h4>Bugs</h4>
 <li>I discovered my submit does not give me a submited data reply</li>
 <li>Yet to fix this bug as time constrains me</li>
+
+<h4>Validator Testing</h4>
+<li>HTML: No errors returned when runned through the official W3C Validator</li>
+<li>CSS: No errors returned when runned through the official (jigsaw) Validator</li>
+<li>I confirm that colors and fonts are easy to read and it was runned through lighthouse in devtools</li>
