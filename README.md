@@ -10,8 +10,8 @@ By becoming a member of this forum, you will be able to connect with other indiv
 
 <ul>
 <li><Navigation</li>
-<ul>
-<li>Featured at the top of the page, the heading largely shows and all the navigation links</li>
 </ul>
-</ul>
+<li>Featured at the top of the page, the heading [GYM BUDDIES] largely shows and all the navigation links</li>
+<li>The Navigation link are on the right side of the pageand they are, About, Types of Activities and Join</li>
+
 
