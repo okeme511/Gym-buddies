@@ -59,3 +59,4 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <h4>Credit</h4>
 <li>Most of the code Content to make this project was major from the Love Running Project</li>
 <li>IMAGE: images was from pexels.com</li>
+<li>ICON: icon was from https://www.favicon.cc/?action=icon&file_id=917578</li>
