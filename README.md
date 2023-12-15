@@ -51,3 +51,8 @@ By becoming a member of this forum, you will be able to connect with other indiv
 
 <h4>Unfixed Bugs</h4>
 <li>Yet to fix the submit response in join page</li>
+
+<h4>Deployment</h4>
+<li>The site was deployed to github page, following required steps from love running project.</li>
+ The live link can be found here https://okeme511.github.io/Gym-buddies/index.html
+ 
