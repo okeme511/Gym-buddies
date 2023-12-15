@@ -39,3 +39,6 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <li>I confirm that the navigation in header are readable and easy to understand</li>
 <li>I confirm that the form works and requires field input if submited blank</li>
 
+<h4>Bugs</h4>
+<li>I discovered my submit does not give me a submited data reply</li>
+<li>Yet to fix this bug as time constrains me</li>
