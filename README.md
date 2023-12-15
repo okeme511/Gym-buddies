@@ -55,10 +55,7 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <h4>Deployment</h4>
 <li>The site was deployed to github page, following required steps from love running project.</li>
  The live link can be found here https://okeme511.github.io/Gym-buddies/index.html
- 
-            <a href="https://okeme511.github.io/Gym-buddies/index.html"
-              target="_blank"
-              rel="noopener"
-              aria-label="visit (opens in new tab)"
-            </a>
-    
+
+<h4>Credit</h4>
+<li>Most of the code Content to make this project was major from the Love Running Project</li>
+<li>IMAGE: images was from pexels.com</li>
