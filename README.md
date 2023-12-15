@@ -9,7 +9,8 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <h2>Features</h2>
 
 
-<li><Navigation</li>
+<h4>Navigation</h4>
+
 <li>Featured at the top of the page, the heading [GYM BUDDIES] largely shows and all the navigation links</li>
 <li>The Navigation link are on the right side of the pageand they are, About, Types of Activities and Join</li>
 <li>The Navigation is clearly spaced out with a Gold like color that is visible</li>
@@ -17,3 +18,7 @@ By becoming a member of this forum, you will be able to connect with other indiv
 
 <img src="/assets/images/navigation picture.jpg" alt="navigation screenshoot">
 
+<h4>Body</h4>
+
+<li>The body provides a quick description of what the site is about, and users may be interested based on this brief description.</li>
+<img src="/assets/images/body screenshot.jpg" alt="body screenshot">
