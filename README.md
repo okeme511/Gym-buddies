@@ -6,5 +6,12 @@ By becoming a member of this forum, you will be able to connect with other indiv
 
 <img src="/assets/images/page view.png" alt="page view">
 
+<h2>Features</h2>
 
+<ul>
+<li><Navigation</li>
+<ul>
+<li>Featured at the top of the page, the heading largely shows and all the navigation links</li>
+</ul>
+</ul>
 
