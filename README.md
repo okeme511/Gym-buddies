@@ -56,3 +56,9 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <li>The site was deployed to github page, following required steps from love running project.</li>
  The live link can be found here https://okeme511.github.io/Gym-buddies/index.html
  
+            <a href="https://okeme511.github.io/Gym-buddies/index.html"
+              target="_blank"
+              rel="noopener"
+              aria-label="visit (opens in new tab)"
+            </a>
+    
