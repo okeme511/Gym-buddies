@@ -1,14 +1,14 @@
-/*Google fonts import*/
+
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-/* Asterisk style to remove default styling*/
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/*General styles for the entire body*/
+
 body {
     min-height: 100vh;
     display: flex;
@@ -19,7 +19,7 @@ body {
 
 }
 
-/* Header */
+
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -83,7 +83,7 @@ header a {
     font-size: 2rem;
 }
 
-/*Main*/
+
 main {
     flex: 1 0 auto;
     margin-top: 47%;
@@ -117,7 +117,7 @@ h1 {
 
 }
 
-/*About section*/
+
 #together {
     height: 600px;
     width: 100%;
@@ -137,7 +137,7 @@ h1 {
 
 }
 
-/* Activities Section*/
+
 #activities {
     height: 600px;
     width: 100%;
@@ -159,7 +159,7 @@ h1 {
     color: #432f2f;
     text-decoration: solid;
 }
-/*Join Us Section*/
+
 #joinus {
     height: 600px;
     width: 100%;
@@ -190,7 +190,6 @@ h1 {
     color: #432f2f;
 }
 
-/*Footer*/
 
 #networking {
     text-align: center;
