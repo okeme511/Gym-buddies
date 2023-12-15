@@ -22,3 +22,13 @@ By becoming a member of this forum, you will be able to connect with other indiv
 
 <li>The body provides a quick description of what the site is about, and users may be interested based on this brief description.</li>
 <img src="/assets/images/body screenshot.jpg" alt="body screenshot">
+
+<h4>Footer</h4>
+<li>The footer contains social media icons that redirect to a new page, allowing website visitors to learn more about their gym mates.</li>
+<img src="/assets/images/footer screenshot.jpg" alt="footer screenshot">
+
+<h4>Inside the navigation links</h4>
+<li>The navigation links include a "about" section that explains the site's origins, "activities link" area that lists all the things members may do, and a "join" section where users can sign up for the service and look for other people to workout with.</li>
+<img src="/assets/images/22 About screenshot.png" alt="inside about">
+<img src="/assets/images/222 Gym activities screenshot.jpg" alt="inside activities">
+<img src="/assets/images/222 join screenshot.jpg" alt="inside join">
