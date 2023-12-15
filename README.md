@@ -47,3 +47,7 @@ By becoming a member of this forum, you will be able to connect with other indiv
 <li>HTML: No errors returned when runned through the official W3C Validator</li>
 <li>CSS: No errors returned when runned through the official (jigsaw) Validator</li>
 <li>I confirm that colors and fonts are easy to read and it was runned through lighthouse in devtools</li>
+<img src="/assets/images/site performance.jpg" alt="site performance">
+
+<h4>Unfixed Bugs</h4>
+<li>Yet to fix the submit response in join page</li>
